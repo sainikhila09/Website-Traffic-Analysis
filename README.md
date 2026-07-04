@@ -22,11 +22,14 @@ In this project, I analyzed website traffic data using Python to understand user
 
 **Source:** Kaggle
 
-**Dataset Link:**  
+**Kaggle Dataset:**  
 https://www.kaggle.com/datasets/bhanupratapbiswas/website-traffic-analysis
 
+**Google Drive (Original Dataset):**  
+https://drive.google.com/file/d/13z5eABQCNcf97Vn7zgue7Mend7qpdroN/view?usp=sharing
 
-**Note:** The original dataset is approximately **30 MB**, which exceeds GitHub's web upload limit (25 MB). Therefore, it is not included in this repository. The processed dataset used for the analysis is available in this repository.
+**Note:**  
+The original dataset is approximately **30 MB**, which exceeds GitHub's web upload limit. Therefore, the original dataset is shared through Google Drive, while the processed dataset used for the analysis is included in this repository.
 
 ---
 
@@ -104,11 +107,11 @@ Website-Traffic-Analysis/
 ## ▶️ How to Run
 
 1. Clone or download this repository.
-2. Download the original dataset from the Kaggle link provided above.
+2. Download the original dataset using the Google Drive or Kaggle link provided above.
 3. Place the dataset in the same folder as the notebook.
 4. Open the notebook using Google Colab or Jupyter Notebook.
 5. Install the required Python libraries if needed.
-6. Run the notebook cells sequentially.
+6. Run all notebook cells sequentially.
 
 ---
 
